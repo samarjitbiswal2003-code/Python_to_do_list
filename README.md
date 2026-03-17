@@ -1,33 +1,35 @@
-# Python To-Do List
+# Python CLI To-Do List
 
-## Description
+## 📌 Description
+This is a simple command-line To-Do List application built using Python.  
+It allows users to manage their daily tasks directly from the terminal.
 
-This is a simple command-line To-Do List application built using Python.
-It allows users to manage their daily tasks from the terminal.
+---
 
-## Features
+## 🚀 Features
+- Add new tasks
+- View all tasks
+- Remove tasks
+- Mark tasks as completed ✔
+- Error handling for invalid input
+- Menu-driven interface
 
-* Add new tasks
-* View all tasks
-* Remove completed tasks
-* Exit the application
-## Technologies Used
+---
 
-* Python
+## 🛠️ Technologies Used
+- Python
 
-## How to Run the Project
-1.Install Python on your computer.
+---
 
-2.Download or clone this repository.
+## ▶️ How to Run the Project
 
-3.Open the project folder in terminal.
+1. Install Python on your computer  
+2. Download or clone this repository  
+3. Open the project folder in terminal  
+4. Run the program:
 
-4.Run the program using:
-  python todo.py
-
-## Project Goal
-
-This project was built to practice Python programming, lists, loops, function, and basic project structure.
+```bash
+python main.py
 
 ## Author
 
