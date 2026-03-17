@@ -31,3 +31,7 @@ It allows users to manage their daily tasks directly from the terminal.
 ```bash
 python main.py
 ```
+---
+
+## 👨‍💻 Author
+Samarjit Biswal
